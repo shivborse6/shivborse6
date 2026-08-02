@@ -1,58 +1,118 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0Iy1by9UY0YfxLZ2/giphy.gif" width="100%" alt="banner"/>
+# ⚡ SHIV BORSE ⚡
 
-# Hey, I'm Shiv 🛡️
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Explorer;Startup+Dreamer;Marvel+Fan;Always+Learning+🚀" />
 
-*"Whatever it takes." — still debugging, still standing.*
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shivborse6&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Welcome%20to%20My%20Universe&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
 </div>
 
 ---
 
-### 🧠 Languages & Tools
+# 🌌 About Me
 
-**Languages**
+yaml
+Name: Shiv Borse
 
-![Java](https://img.shields.io/badge/-JAVA-B71C1C?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/-C-283593?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-PYTHON-1A237E?style=for-the-badge&logo=python&logoColor=FFD700)
+Location: Maharashtra, India 🇮🇳
 
-**Frontend** — *early days, still leveling up*
+Role:
+  Engineering Student
 
-![HTML](https://img.shields.io/badge/-HTML-B71C1C?style=for-the-badge&logo=html5&logoColor=white)
+Currently Learning:
+  Java
+  JavaScript
+  React
+  Git
+  GitHub
 
-**Tools**
+Interests:
+  Artificial Intelligence
+  Full Stack Development
+  Startups
+  Open Source
 
-![Git](https://img.shields.io/badge/-GIT%20%26%20GITHUB-212121?style=for-the-badge&logo=github&logoColor=white)
+Goal:
+  Build a successful tech startup 🚀
+
 
 ---
 
-> *"CSS is my Thanos snap — half my layout just disappears and I don't know why."*
+# ⚡ Motto
+
+> "Dream Big. Build Bigger."
 
 ---
 
-### 📊 Stats
+# 🦸 Who Am I?
+
+- 🚀 Future Full Stack Developer
+- 💡 Startup Builder
+- 🤖 AI Enthusiast
+- 🌍 Learning something new every day
+- ☕ Coffee + Music + Coding
+
+---
+
+# 🎯 Current Focus
+
+✅ Java
+
+✅ JavaScript
+
+✅ React
+
+✅ Git & GitHub
+
+⬜ Node.js
+
+⬜ MongoDB
+
+⬜ Next.js
+
+⬜ Docker
+
+---
+
+# 🌄 Aesthetic
+
+🌌 Night Sky
+
+🏔️ Mountains
+
+⚡ Marvel
+
+🕸️ Spider-Man
+
+💙 Neon Blue
+
+🌠 Cinematic
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/shivborse6">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/Shiv_patilx">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivborse6&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivborse6&layout=compact&theme=dracula&hide_border=true" width="42%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivborse6&theme=dracula&hide_border=true" width="60%"/>
+### ⚡ "Code • Create • Conquer"
 
 </div>
-
----
-
-### ⚡ Currently
-
-- 🎯 Sharpening my fundamentals in Java, C, and Python
-- 🌐 Learning to build with HTML — frontend arc has just begun
-- 🛠️ Getting comfortable with Git & GitHub workflows
-- 🚀 Training for the next mission: bigger projects, real-world code
-
----
-
-*the exact moment my code compiles on the first try*
-
