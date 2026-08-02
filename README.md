@@ -79,21 +79,9 @@ Goal:
 
 ---
 
-# 🌄 Aesthetic
 
-🌌 Night Sky
 
-🏔️ Mountains
 
-⚡ Marvel
-
-🕸️ Spider-Man
-
-💙 Neon Blue
-
-🌠 Cinematic
-
----
 
 # 📫 Connect With Me
 
