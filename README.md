@@ -188,3 +188,71 @@ text
 ⚡ I don't just write code...
 I build ideas into reality.
 
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🎓 Campus Voice | University community platform | 🚧 Building |
+| 🌦️ Weather App | Weather forecast using API | ✅ Completed |
+| 🤖 AI Assistant | AI-powered chatbot | 🚧 Learning |
+| 🌐 Portfolio Website | Personal portfolio | 📝 Coming Soon |
+
+</div>
+
+---
+
+# 📚 Currently Working On
+
+text
+📌 Java Development
+📌 React Projects
+📌 Data Structures & Algorithms
+📌 Open Source Contributions
+📌 AI & Automation
+
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/shivborse6">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/Shiv_patilx">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Favorite Quote
+
+> *"Success is built one commit at a time."* 🚀
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile! ⭐
+
+### If you like my work, don't forget to ⭐ my repositories.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
