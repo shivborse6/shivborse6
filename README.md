@@ -16,7 +16,7 @@
 
 # 🌌 About Me
 
-yaml
+I am 
 Name: Shiv Borse
 
 Location: Maharashtra, India 🇮🇳
