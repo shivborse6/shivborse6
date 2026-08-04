@@ -69,6 +69,8 @@ Goal:
 
 ✅ Git & GitHub
 
+✅ DSA
+
 ⬜ Node.js
 
 ⬜ MongoDB
