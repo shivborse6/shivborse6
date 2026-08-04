@@ -182,7 +182,7 @@ I build ideas into reality.
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| 🎓 Campus Voice | University community platform | 🚧 Building |
+| 🎓 Campus Voice | University community platform | Completed |
 | 🌦️ Weather App | Weather forecast using API | ✅ Completed |
 | 🤖 AI Assistant | AI-powered chatbot | 🚧 Learning |
 | 🌐 Portfolio Website | Personal portfolio | 📝 Coming Soon |
